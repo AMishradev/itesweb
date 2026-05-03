@@ -16,6 +16,9 @@
     if (link.external) {
       attrs += ' target="_blank" rel="noreferrer"';
     }
+    if (link.download) {
+      attrs += " download";
+    }
     return attrs;
   }
 
@@ -379,6 +382,7 @@
       '<h2 id="contact-title">' + escapeHtml(content.contact.title) + "</h2>",
       '<p>' + escapeHtml(content.contact.body) + "</p>",
       '<div class="contact-actions" aria-label="Contact links">' + ctas + "</div>",
+      '<div class="resume-action">' + linkButton(content.contact.resume, "button button-resume") + "</div>",
       "</div>",
       "</section>",
     ].join("");

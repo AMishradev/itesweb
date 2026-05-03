@@ -957,6 +957,20 @@ li::marker {
   margin-top: 34px;
 }
 
+.resume-action {
+  margin-top: 18px;
+}
+
+.button-resume {
+  color: var(--ink);
+  background: color-mix(in srgb, var(--brass) 14%, var(--surface-strong));
+  border: 1px solid color-mix(in srgb, var(--brass) 48%, var(--line-strong));
+}
+
+.button-resume:hover {
+  border-color: var(--brass);
+}
+
 .site-footer {
   padding: 34px 0;
   border-top: 1px solid var(--line);

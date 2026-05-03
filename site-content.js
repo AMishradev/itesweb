@@ -207,7 +207,7 @@ window.siteContent = {
         context: "Worked full-time while enrolled as a Computer Science & Engineering student.",
         focus: "Enterprise Applications · Finance Systems · Internal Tools · Business Workflow Software",
         description:
-          "Developed a deployed internal application for Honda's Captive Finance team, digitizing a manual request workflow used by internal business users.",
+          "Developed and deployed an internal application for Honda's Captive Finance team, digitizing a manual request workflow used by internal business users.",
         badges: [
           "Deployed Internal Tool",
           "100+ Internal Users",
@@ -217,7 +217,7 @@ window.siteContent = {
         ],
         bullets: [
           "Worked full-time at Honda while continuing as a CSE student at UC Santa Cruz.",
-          "Developed a deployed internal application used by 100+ internal workers.",
+          "Developed and deployed an internal application used by 100+ internal workers.",
           "Digitized a manual form-based workflow where business users requested updates, fixes, or changes to financial systems.",
           "Automated request intake, form completion, stakeholder notification, and status visibility.",
           "Built a dashboard for stakeholders to track request/project status across the workflow.",
@@ -460,14 +460,9 @@ window.siteContent = {
           "Gemini CLI",
           "Cursor",
           "GitHub Copilot",
-          "LLM-assisted development workflows",
-          "Agentic coding tools",
-          "Prompt engineering",
-          "AI-assisted debugging",
-          "AI-assisted product prototyping",
-          "Text-to-SQL workflows",
-          "Amazon Bedrock",
-          "Azure Speech APIs",
+          "Llama",
+          "Kimi",
+          "Mistral",
         ],
       },
       {
@@ -477,20 +472,12 @@ window.siteContent = {
       {
         title: "AI / Data",
         skills: [
-          "Amazon Bedrock",
-          "Microsoft Azure Speech APIs",
-          "Text-to-SQL",
-          "Natural Language to SQL",
+          "Azure Speech APIs",
           "MongoDB",
-          "AWS Athena",
-          "AWS Glue",
-          "AWS Lambda",
-          "Amazon S3",
           "IBM Informix",
-          "Data pipelines",
-          "ETL",
-          "UNL / CSV conversion",
-          "Legacy data conversion",
+          "AWS Glue",
+          "AWS Athena",
+          "AWS Lambda",
         ],
       },
       {
@@ -625,6 +612,12 @@ window.siteContent = {
     body:
       "I'm looking for roles and teams where technical depth, speed, ownership, and business judgment matter. If you're building something ambitious, I'd love to talk.",
     ctas: ["email", "linkedin", "github", "substack"],
+    resume: {
+      label: "Download My Resume",
+      href: "assets/ArchitMishraResume-May2026.pdf",
+      ariaLabel: "Download Archit Mishra's resume PDF",
+      download: true,
+    },
   },
   footer: {
   },
