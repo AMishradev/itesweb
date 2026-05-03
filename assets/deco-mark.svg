@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 520" role="img" aria-labelledby="title">
+  <title id="title">Art Deco architectural line mark</title>
+  <rect width="420" height="520" fill="#f7f1e6"/>
+  <path d="M210 42 314 148v330H106V148L210 42Z" fill="#ebe1d0" stroke="#1a1915" stroke-width="4"/>
+  <path d="M210 88 274 154v282H146V154L210 88Z" fill="#f9f6ef" stroke="#b58b4d" stroke-width="4"/>
+  <path d="M210 124v300M178 158v266M242 158v266M146 214h128M146 278h128M146 342h128" fill="none" stroke="#1a1915" stroke-width="3"/>
+  <path d="M90 478h240M74 436h272M122 394h176" fill="none" stroke="#b58b4d" stroke-width="6"/>
+  <path d="M210 42v78M176 76l34 46 34-46" fill="none" stroke="#1a1915" stroke-width="4"/>
+  <circle cx="210" cy="154" r="12" fill="#b58b4d"/>
+  <path d="M56 478V232m308 246V232M72 242h52m224 0h52" fill="none" stroke="#1a1915" stroke-width="4"/>
+</svg>
